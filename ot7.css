@@ -1,0 +1,4990 @@
+.elementor-19 .elementor-element.elementor-element-4462a961 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 30px;
+    --padding-right: 0px;
+    --padding-bottom: 30px;
+    --padding-left: 0px;
+    --z-index: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-4462a961:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-4462a961>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #030C0117;
+}
+
+.elementor-19 .elementor-element.elementor-element-4462a961,
+.elementor-19 .elementor-element.elementor-element-4462a961::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-129a53c3>.elementor-widget-container {
+    margin: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-129a53c3.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-46d73d60 {
+    --min-height: 20px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-end;
+    --align-items: flex-end;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-4a775b5c .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: #61CE7000;
+}
+
+.elementor-19 .elementor-element.elementor-element-7ff5c7f5 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: #61CE7000;
+}
+
+.elementor-19 .elementor-element.elementor-element-15de0e00 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-secondary);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-602a81f0 {
+    --min-height: 1039px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-top: -130px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-602a81f0:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-602a81f0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("bg.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-19 .elementor-element.elementor-element-602a81f0,
+.elementor-19 .elementor-element.elementor-element-602a81f0::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-4e542f09 {
+    --min-height: 801px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 100px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: -180px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4e542f09.e-con {
+    --align-self: flex-start;
+}
+
+.elementor-19 .elementor-element.elementor-element-2910c821 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    text-transform: uppercase;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+.elementor-19 .elementor-element.elementor-element-2910c821>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-56cfde77 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-36131103 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    fill: #030C01;
+    color: #030C01;
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    box-shadow: 0px 0px 22px 0px rgba(143, 235.99999999999994, 76.99999999999997, 0.62);
+    padding: 15px 50px 15px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-36131103>.elementor-widget-container {
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21755781 .elementor-button .elementor-align-icon-right {
+    margin-left: 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21755781 .elementor-button .elementor-align-icon-left {
+    margin-right: 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21755781 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #022D0800;
+    border-radius: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21755781>.elementor-widget-container {
+    margin: 20px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1c9f92fe {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 100px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1c9f92fe.e-con {
+    --align-self: flex-start;
+}
+
+.elementor-19 .elementor-element.elementor-element-16b0bedd {
+    --min-height: 110px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-16b0bedd.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-e30c6b {
+    color: var(--e-global-color-secondary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-e30c6b>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-15606d80 {
+    --min-height: 110px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-15606d80.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-bad80bb {
+    color: var(--e-global-color-secondary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-bad80bb>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7762c495 {
+    color: var(--e-global-color-text);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+.elementor-19 .elementor-element.elementor-element-7762c495>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-60acff10 {
+    --min-height: 1039px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-top: -130px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-60acff10:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-60acff10>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("escalado.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-19 .elementor-element.elementor-element-60acff10,
+.elementor-19 .elementor-element.elementor-element-60acff10::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-7fd4ca5d {
+    --min-height: 801px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 100px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7fd4ca5d.e-con {
+    --align-self: flex-start;
+}
+
+.elementor-19 .elementor-element.elementor-element-e182031>.elementor-widget-container {
+    margin: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-e182031.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-2b0d17de {
+    --min-height: 20px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-end;
+    --align-items: flex-end;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-2205f728 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: #61CE7000;
+}
+
+.elementor-19 .elementor-element.elementor-element-2eb07aa1 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    fill: var(--e-global-color-secondary);
+    color: var(--e-global-color-secondary);
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-secondary);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4c761142 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    text-transform: uppercase;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+.elementor-19 .elementor-element.elementor-element-4c761142>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-57073e3c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-221fc097 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    fill: #030C01;
+    color: #030C01;
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    box-shadow: 0px 0px 22px 0px rgba(143, 235.99999999999994, 76.99999999999997, 0.62);
+    padding: 15px 50px 15px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-221fc097>.elementor-widget-container {
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6283ddbb .elementor-button .elementor-align-icon-right {
+    margin-left: 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6283ddbb .elementor-button .elementor-align-icon-left {
+    margin-right: 5px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6283ddbb .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #022D0800;
+    border-radius: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6283ddbb>.elementor-widget-container {
+    margin: 20px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-51cd7bc8 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 100px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-51cd7bc8.e-con {
+    --align-self: flex-start;
+}
+
+.elementor-19 .elementor-element.elementor-element-664f8a5c {
+    --min-height: 110px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-664f8a5c.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-410de050 {
+    color: var(--e-global-color-secondary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-410de050>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3e7ffd94 {
+    --min-height: 110px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3e7ffd94.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-7ae662b9 {
+    color: var(--e-global-color-secondary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-7ae662b9>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-16d6e1cf {
+    color: var(--e-global-color-text);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+.elementor-19 .elementor-element.elementor-element-16d6e1cf>.elementor-widget-container {
+    margin: 0px 0px -15px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4c0fb021 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 100px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4c0fb021:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-4c0fb021>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #030C01;
+}
+
+.elementor-19 .elementor-element.elementor-element-4c0fb021,
+.elementor-19 .elementor-element.elementor-element-4c0fb021::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-47b65993 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --padding-top: 50px;
+    --padding-right: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-47b65993,
+.elementor-19 .elementor-element.elementor-element-47b65993::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-64fdcbf2>.elementor-widget-container {
+    padding: 0px 0px 0px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-64fdcbf2 {
+    width: var(--container-widget-width, 36.838%);
+    max-width: 36.838%;
+    --container-widget-width: 36.838%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-64fdcbf2.elementor-element {
+    --align-self: center;
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-5b9c868 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-5b9c868>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 50px 0px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5b9c868.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-45905163 {
+    --min-height: 1352px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-top: 100px;
+    --padding-right: 0px;
+    --padding-bottom: 100px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-45905163:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-45905163>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: url("campo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-19 .elementor-element.elementor-element-45905163,
+.elementor-19 .elementor-element.elementor-element-45905163::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-3dce8755 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-6f4bf498 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-6f4bf498>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1a9901d7 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1a9901d7>.elementor-widget-container {
+    margin: 100px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ea2b0 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    box-shadow: 0px 0px 22px 0px rgba(143, 235.99999999999994, 76.99999999999997, 0.62);
+    padding: 15px 50px 15px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ea2b0>.elementor-widget-container {
+    margin: 100px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-72a7a024 {
+    --min-height: 450px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-right: 0px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-72a7a024:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-72a7a024>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-72a7a024,
+.elementor-19 .elementor-element.elementor-element-72a7a024::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-cef8a7f {
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-42552041 {
+    color: #030C01;
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-1ec3b98c {
+    --min-height: 1440px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-top: 100px;
+    --padding-right: 0px;
+    --padding-bottom: 100px;
+    --padding-left: 0px;
+    --z-index: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-1ec3b98c:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-1ec3b98c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #030C01;
+}
+
+.elementor-19 .elementor-element.elementor-element-1ec3b98c,
+.elementor-19 .elementor-element.elementor-element-1ec3b98c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-38fbff57 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-4e3e8ed3 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-4e3e8ed3 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-4e3e8ed3>.elementor-widget-container {
+    margin: 0px 0px 100px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6d22d311 {
+    --min-height: 400px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-79ff6dfa {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52086746 {
+    --min-height: 700px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52086746:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-52086746>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #01b31d 0%, #012E02 100%);
+}
+
+.elementor-19 .elementor-element.elementor-element-52086746:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-52086746,
+.elementor-19 .elementor-element.elementor-element-52086746::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-782308ab img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-782308ab>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21936fc8 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-21936fc8 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-21936fc8>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2ea9b419 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2ea9b419 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-2ea9b419 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2ea9b419>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-63196a32 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-63196a32>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2830368a {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-2830368a>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-554501d8 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-554501d8 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-554501d8 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-554501d8 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-554501d8 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-554501d8>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-554501d8 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-906fae3 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3dde05c9 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 35px 15px 35px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3dde05c9 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-3dde05c9 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-3dde05c9 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-3dde05c9 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-3dde05c9>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-812b49e .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 35px 15px 35px;
+}
+
+.elementor-19 .elementor-element.elementor-element-812b49e .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-812b49e .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-812b49e .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-812b49e .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-812b49e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-34804c18 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-34804c18>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-83469f8 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b5d866a {
+    --min-height: 700px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b5d866a:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-b5d866a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-b5d866a:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-b5d866a,
+.elementor-19 .elementor-element.elementor-element-b5d866a::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-2716b02 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2716b02>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-e98572f {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-e98572f .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-e98572f>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-486c1d0 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-486c1d0 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-486c1d0 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-486c1d0>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-99332e7 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-99332e7>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-9a14aa9 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-9a14aa9>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4846649 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4846649 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-4846649 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-4846649 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-4846649 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-4846649>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4846649 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-37bc35c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5745305 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 35px 15px 35px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5745305 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-5745305 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-5745305 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-5745305 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-5745305>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-e726e30 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    fill: var(--e-global-color-primary);
+    color: var(--e-global-color-primary);
+    background-color: #FFFFFF00;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 35px 15px 35px;
+}
+
+.elementor-19 .elementor-element.elementor-element-e726e30 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-e726e30 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-e726e30 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-e726e30 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-e726e30>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-f2294a8 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-f2294a8>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-a74fed0 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-8357d26 {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-8357d26:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-8357d26>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-8357d26:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-8357d26,
+.elementor-19 .elementor-element.elementor-element-8357d26::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-3404e82 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3404e82>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5aad89d {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-5aad89d .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-5aad89d>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-39d2e4a {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-39d2e4a .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-39d2e4a .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-39d2e4a>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c268ab4 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-c268ab4>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-aca762a {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-aca762a>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-98fa1de .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-98fa1de .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-98fa1de .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-98fa1de .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-98fa1de .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-98fa1de>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-98fa1de {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-b4c575a {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-b4c575a>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-507eeecd {
+    --min-height: 400px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-bf90b9d {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-0b50487 {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-0b50487:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-0b50487>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-0b50487:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-0b50487,
+.elementor-19 .elementor-element.elementor-element-0b50487::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-6fe955b img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6fe955b>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2d6a2e9 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-2d6a2e9 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-2d6a2e9>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-cc9afb1 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-cc9afb1 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-cc9afb1 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-cc9afb1>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5b4e4b7 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-5b4e4b7>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-f73d58c {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-f73d58c>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52bacff .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52bacff .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-52bacff .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-52bacff .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-52bacff .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-52bacff>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52bacff {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-42eb8fc {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-42eb8fc>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5dade15 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-08b507c {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-08b507c:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-08b507c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-08b507c:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-08b507c,
+.elementor-19 .elementor-element.elementor-element-08b507c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-b3a96dc img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b3a96dc>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-607379b {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-607379b .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-607379b>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b98c5ed {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b98c5ed .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-b98c5ed .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b98c5ed>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-38b281c {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-38b281c>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-21a5474 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-21a5474>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-32bc705 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-32bc705 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-32bc705 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-32bc705 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-32bc705 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-32bc705>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-32bc705 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-dfdc779 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-dfdc779>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-131a1ee {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c07b02d {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c07b02d:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-c07b02d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-c07b02d:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-c07b02d,
+.elementor-19 .elementor-element.elementor-element-c07b02d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-5997691 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5997691>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2937896 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-2937896 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-2937896>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ccc907 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ccc907 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ccc907 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4ccc907>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6cfa221 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-6cfa221>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-bb5f7d3 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-bb5f7d3>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-dadab58 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-dadab58 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-dadab58 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-dadab58 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-dadab58 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-dadab58>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-dadab58 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-92b0d90 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-92b0d90>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-5eaa4d49 {
+    --min-height: 400px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-09a512c {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3f176eb {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3f176eb:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-3f176eb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-3f176eb:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-3f176eb,
+.elementor-19 .elementor-element.elementor-element-3f176eb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-7333f48 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7333f48>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-f06a997 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-f06a997 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-f06a997>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-31d3d16 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-31d3d16 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-31d3d16 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-31d3d16>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3fd439f {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-3fd439f>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-f955e1e {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-f955e1e>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-55a3832 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-55a3832 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-55a3832 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-55a3832 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-55a3832 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-55a3832>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-55a3832 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-076d1b5 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-076d1b5>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-51af9f8 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ed7e33d {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ed7e33d:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-ed7e33d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-ed7e33d:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-ed7e33d,
+.elementor-19 .elementor-element.elementor-element-ed7e33d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-0b96cb6 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-0b96cb6>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-108529e {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-108529e .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-108529e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52f7929 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52f7929 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-52f7929 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52f7929>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c245e30 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-c245e30>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7fb3ffd {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-7fb3ffd>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b2074c1 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b2074c1 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-b2074c1 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-b2074c1 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-b2074c1 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-b2074c1>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b2074c1 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-7621f97 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-7621f97>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ad64c98 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-fc444b1 {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-fc444b1:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-fc444b1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-fc444b1:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-fc444b1,
+.elementor-19 .elementor-element.elementor-element-fc444b1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-d5ab6f0 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-d5ab6f0>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c21d4bd {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-c21d4bd .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-c21d4bd>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-86bdf52 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-86bdf52 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-86bdf52 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-86bdf52>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-598e623 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-598e623>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1952758 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-1952758>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-ffe6fd7>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ffe6fd7 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-c14cc64 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-c14cc64>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-24d7f45 {
+    --min-height: 400px;
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-a05b14a {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2f2bc81 {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2f2bc81:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-2f2bc81>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-2f2bc81:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-2f2bc81,
+.elementor-19 .elementor-element.elementor-element-2f2bc81::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-b6a05e7 img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b6a05e7>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-73d9f9d {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-73d9f9d .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-73d9f9d>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2aa71dd {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2aa71dd .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-2aa71dd .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2aa71dd>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c2e17f3 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-c2e17f3>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-a831688 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-a831688>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-d8b4fb6>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-d8b4fb6 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-e03cf72 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-e03cf72>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-f190459 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c6472da {
+    --min-height: 775px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: #34680F;
+    --border-color: #34680F;
+    --border-radius: 20px 20px 20px 20px;
+    --border-top-left-radius: 20px;
+    --border-top-right-radius: 20px;
+    --border-bottom-right-radius: 20px;
+    --border-bottom-left-radius: 20px;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --padding-top: 0px;
+    --padding-right: 0px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c6472da:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-c6472da>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-c6472da:hover {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-c6472da,
+.elementor-19 .elementor-element.elementor-element-c6472da::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-c9aa2df img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-c9aa2df>.elementor-widget-container {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-19 .elementor-element.elementor-element-15962e3 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-15962e3 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-15962e3>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-612eab7 {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-612eab7 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-612eab7 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-612eab7>.elementor-widget-container {
+    margin: -16px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-9ba347d {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.elementor-19 .elementor-element.elementor-element-9ba347d>.elementor-widget-container {
+    margin: -20px 0px -25px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-ddfb364 {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-ddfb364>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b9c149f .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    fill: #000000;
+    color: #000000;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 60px 15px 60px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b9c149f .elementor-button:hover,
+.elementor-19 .elementor-element.elementor-element-b9c149f .elementor-button:focus {
+    color: var(--e-global-color-secondary);
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.elementor-19 .elementor-element.elementor-element-b9c149f .elementor-button:hover svg,
+.elementor-19 .elementor-element.elementor-element-b9c149f .elementor-button:focus svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-b9c149f>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-b9c149f {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-1480f8e {
+    color: var(--e-global-color-primary);
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-1480f8e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-145dd763 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-41655fb9 {
+    --divider-border-style: solid;
+    --divider-color: var(--e-global-color-text);
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-41655fb9 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-41655fb9 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-41655fb9>.elementor-widget-container {
+    margin: 150px 0px 150px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-50038e1 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+    --border-radius: 10px 10px 10px 10px;
+    --border-top-left-radius: 10px;
+    --border-top-right-radius: 10px;
+    --border-bottom-right-radius: 10px;
+    --border-bottom-left-radius: 10px;
+    --padding-top: 050px;
+    --padding-right: 0px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-50038e1:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-50038e1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-50038e1,
+.elementor-19 .elementor-element.elementor-element-50038e1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-6854ed6e {
+    text-align: center;
+    width: var(--container-widget-width, 12.21%);
+    max-width: 12.21%;
+    --container-widget-width: 12.21%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-6854ed6e img {
+    width: 40%;
+}
+
+.elementor-19 .elementor-element.elementor-element-6854ed6e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-6854ed6e.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-556e1fe .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-556e1fe>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-556e1fe.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-716bee28 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --border-radius: 10px 10px 10px 10px;
+    --border-top-left-radius: 10px;
+    --border-top-right-radius: 10px;
+    --border-bottom-right-radius: 10px;
+    --border-bottom-left-radius: 10px;
+    --padding-top: 050px;
+    --padding-right: 0px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-716bee28:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-716bee28>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #15171400;
+}
+
+.elementor-19 .elementor-element.elementor-element-716bee28,
+.elementor-19 .elementor-element.elementor-element-716bee28::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-722e1614 {
+    text-align: center;
+    width: var(--container-widget-width, 12.21%);
+    max-width: 12.21%;
+    --container-widget-width: 12.21%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-722e1614 img {
+    width: 35%;
+}
+
+.elementor-19 .elementor-element.elementor-element-722e1614>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-722e1614.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-759b0055 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-759b0055>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-759b0055.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-3650aebb {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    --border-width-top: 1px;
+    --border-width-right: 1px;
+    --border-width-bottom: 1px;
+    --border-width-left: 1px;
+    border-color: var(--e-global-color-secondary);
+    --border-color: var(--e-global-color-secondary);
+    --border-radius: 10px 10px 10px 10px;
+    --border-top-left-radius: 10px;
+    --border-top-right-radius: 10px;
+    --border-bottom-right-radius: 10px;
+    --border-bottom-left-radius: 10px;
+    --padding-top: 050px;
+    --padding-right: 010px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3650aebb:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-3650aebb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-3650aebb,
+.elementor-19 .elementor-element.elementor-element-3650aebb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-52877d49 {
+    text-align: center;
+    width: var(--container-widget-width, 10.134%);
+    max-width: 10.134%;
+    --container-widget-width: 10.134%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-52877d49 img {
+    width: 35%;
+}
+
+.elementor-19 .elementor-element.elementor-element-52877d49>.elementor-widget-container {
+    margin: 0px -30px 0px -19px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-52877d49.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-642497bd .elementor-heading-title {
+    color: #5B5B5B;
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-642497bd>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-642497bd.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-11eb27a0 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    border-style: none;
+    --border-style: none;
+    --border-radius: 10px 10px 10px 10px;
+    --border-top-left-radius: 10px;
+    --border-top-right-radius: 10px;
+    --border-bottom-right-radius: 10px;
+    --border-bottom-left-radius: 10px;
+    --padding-top: 050px;
+    --padding-right: 0px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-11eb27a0:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-11eb27a0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #15171400;
+}
+
+.elementor-19 .elementor-element.elementor-element-11eb27a0,
+.elementor-19 .elementor-element.elementor-element-11eb27a0::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-4279c306 {
+    text-align: center;
+    width: var(--container-widget-width, 12.21%);
+    max-width: 12.21%;
+    --container-widget-width: 12.21%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-4279c306 img {
+    width: 35%;
+}
+
+.elementor-19 .elementor-element.elementor-element-4279c306>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4279c306.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-19 .elementor-element.elementor-element-3bdb0252 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-3bdb0252>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3bdb0252.elementor-element {
+    --align-self: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-3fb44f61 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    fill: #030C01;
+    color: #030C01;
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    box-shadow: 0px 0px 22px 0px rgba(143, 235.99999999999994, 76.99999999999997, 0.62);
+    padding: 15px 50px 15px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-3fb44f61>.elementor-widget-container {
+    margin: 100px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7b407299 {
+    --divider-border-style: solid;
+    --divider-color: var(--e-global-color-text);
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7b407299 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-7b407299 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-7b407299>.elementor-widget-container {
+    margin: 150px 0px 150px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-1df6a371 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-1df6a371 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.elementor-19 .elementor-element.elementor-element-1df6a371>.elementor-widget-container {
+    margin: 0px 0px 50px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-2d4bedc3 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-content {
+    border-bottom-color: #020101;
+    background-color: #5B5B5B;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-title {
+    border-color: #020101;
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-toggle-item:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-toggle-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-title .elementor-toggle-icon i:before {
+    color: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-title .elementor-toggle-icon svg {
+    fill: var(--e-global-color-secondary);
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-title.elementor-active .elementor-toggle-icon i:before {
+    color: var(--e-global-color-primary);
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-tab-title.elementor-active .elementor-toggle-icon svg {
+    fill: var(--e-global-color-primary);
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-toggle-icon.elementor-toggle-icon-left {
+    margin-right: 10px;
+}
+
+.elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-toggle-icon.elementor-toggle-icon-right {
+    margin-left: 10px;
+}
+
+.elementor-19 .elementor-element.elementor-element-4650edb8 {
+    text-align: center;
+}
+
+.elementor-19 .elementor-element.elementor-element-4650edb8 .elementor-heading-title {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+.elementor-19 .elementor-element.elementor-element-4650edb8>.elementor-widget-container {
+    margin: 100px 0px 50px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-55bb3c01 .elementor-button {
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    fill: #030C01;
+    color: #030C01;
+    background-color: var(--e-global-color-secondary);
+    border-style: none;
+    box-shadow: 0px 0px 22px 0px rgba(143, 235.99999999999994, 76.99999999999997, 0.62);
+    padding: 15px 50px 15px 50px;
+}
+
+.elementor-19 .elementor-element.elementor-element-55bb3c01>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-280e5401 {
+    --divider-border-style: solid;
+    --divider-color: var(--e-global-color-text);
+    --divider-border-width: 1px;
+}
+
+.elementor-19 .elementor-element.elementor-element-280e5401 .elementor-divider-separator {
+    width: 100%;
+}
+
+.elementor-19 .elementor-element.elementor-element-280e5401 .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-19 .elementor-element.elementor-element-280e5401>.elementor-widget-container {
+    margin: 150px 0px 150px 0px;
+}
+
+.elementor-19 .elementor-element.elementor-element-512e7760 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-512e7760:not(.elementor-motion-effects-element-type-background),
+.elementor-19 .elementor-element.elementor-element-512e7760>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #151714;
+}
+
+.elementor-19 .elementor-element.elementor-element-512e7760,
+.elementor-19 .elementor-element.elementor-element-512e7760::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-19 .elementor-element.elementor-element-70358e85 {
+    text-align: center;
+    font-family: "Darker Grotesque", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.elementor-19 .elementor-element.elementor-element-70358e85>.elementor-widget-container {
+    padding: 20px 0px 20px 0px;
+}
+
+@media(min-width:768px) {
+    .elementor-19 .elementor-element.elementor-element-602a81f0 {
+        --content-width: 1039px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4e542f09 {
+        --content-width: 680px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1c9f92fe {
+        --content-width: 1043px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-16b0bedd {
+        --width: 34.848%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-15606d80 {
+        --width: 28.378%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-60acff10 {
+        --content-width: 1039px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-7fd4ca5d {
+        --content-width: 1030px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-51cd7bc8 {
+        --content-width: 1043px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-664f8a5c {
+        --width: 28.378%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3e7ffd94 {
+        --width: 28.378%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-cef8a7f {
+        --content-width: 820px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-906fae3 {
+        --content-width: 1031px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-37bc35c {
+        --content-width: 1031px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-24d7f45 {
+        --content-width: 730px;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-19 .elementor-element.elementor-element-664f8a5c {
+        --width: 373px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3e7ffd94 {
+        --width: 527px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-19 .elementor-element.elementor-element-60acff10 {
+        --min-height: 1440px;
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-7fd4ca5d {
+        --align-items: center;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    }
+
+    .elementor-19 .elementor-element.elementor-element-7fd4ca5d.e-con {
+        --align-self: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-e182031>.elementor-widget-container {
+        margin: 0px 0px 50px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2b0d17de {
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2b0d17de.e-con {
+        --align-self: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4c761142 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-57073e3c {
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-664f8a5c {
+        --flex-direction: column;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --justify-content: center;
+        --align-items: flex-end;
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3e7ffd94 {
+        --align-items: flex-start;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4c0fb021 {
+        --padding-top: 0px;
+        --padding-right: 50px;
+        --padding-bottom: 0px;
+        --padding-left: 50px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-47b65993 {
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 100px;
+        --margin-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-5b9c868 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-45905163 {
+        --padding-top: 50px;
+        --padding-right: 50px;
+        --padding-bottom: 50px;
+        --padding-left: 50px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6f4bf498 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1a9901d7 .swiper-wrapper {
+        display: flex;
+        align-items: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1a9901d7>.elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1a9901d7.elementor-element {
+        --align-self: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-72a7a024 {
+        --padding-top: 0px;
+        --padding-right: 30px;
+        --padding-bottom: 0px;
+        --padding-left: 30px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1ec3b98c {
+        --padding-top: 100px;
+        --padding-right: 30px;
+        --padding-bottom: 0100px;
+        --padding-left: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-19 .elementor-element.elementor-element-602a81f0 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 30px;
+        --padding-bottom: 0px;
+        --padding-left: 30px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2910c821 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2910c821 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-56cfde77 {
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-60acff10:not(.elementor-motion-effects-element-type-background),
+    .elementor-19 .elementor-element.elementor-element-60acff10>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url("escalado.png");
+    }
+
+    .elementor-19 .elementor-element.elementor-element-60acff10 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 30px;
+        --padding-bottom: 0px;
+        --padding-left: 30px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-7fd4ca5d {
+        --margin-top: 50px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-e182031 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-e182031 img {
+        width: 84%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-e182031>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2b0d17de {
+        --content-width: 1035px;
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2205f728 .elementor-button {
+        font-size: 15px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2205f728>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-2eb07aa1 .elementor-button {
+        font-size: 15px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4c761142 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4c761142 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-57073e3c {
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6283ddbb .elementor-button {
+        border-radius: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-664f8a5c {
+        --align-items: center;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+        --margin-top: 220px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3e7ffd94 {
+        --align-items: center;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4c0fb021 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 50px;
+        --padding-right: 30px;
+        --padding-bottom: 050px;
+        --padding-left: 30px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-47b65993 {
+        --content-width: 1498px;
+        --min-height: 488px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 50px;
+        --padding-right: 30px;
+        --padding-bottom: 50px;
+        --padding-left: 30px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-64fdcbf2 {
+        text-align: center;
+        --container-widget-width: 220px;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 220px);
+        max-width: 220px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-64fdcbf2 img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-64fdcbf2>.elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-5b9c868 {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-5b9c868>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-45905163 {
+        --min-height: 872px;
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 0px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3dce8755 {
+        --justify-content: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3dce8755.e-con {
+        --align-self: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6f4bf498 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6f4bf498 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6f4bf498>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1a9901d7 {
+        --e-image-carousel-slides-to-show: 1;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1a9901d7>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4ea2b0>.elementor-widget-container {
+        margin: 0px 0px 50px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-72a7a024 {
+        --min-height: 0px;
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-42552041 {
+        font-size: 18px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1ec3b98c {
+        --padding-top: 100px;
+        --padding-right: 20px;
+        --padding-bottom: 100px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4e3e8ed3 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4e3e8ed3>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-79ff6dfa {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-83469f8 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-a74fed0 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-bf90b9d {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-5dade15 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-131a1ee {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-09a512c {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-51af9f8 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-ad64c98 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-a05b14a {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-f190459 {
+        --margin-top: 0px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --padding-top: 0px;
+        --padding-right: 0px;
+        --padding-bottom: 0px;
+        --padding-left: 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-41655fb9>.elementor-widget-container {
+        margin: 0px 0px 50px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-50038e1 {
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-6854ed6e {
+        --container-widget-width: 154px;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 154px);
+        max-width: 154px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-556e1fe {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-556e1fe .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-716bee28 {
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-722e1614 {
+        --container-widget-width: 150px;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 150px);
+        max-width: 150px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-759b0055 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-759b0055 .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3650aebb {
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-52877d49 {
+        --container-widget-width: 150px;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 150px);
+        max-width: 150px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-642497bd {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-642497bd .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-11eb27a0 {
+        --padding-top: 50px;
+        --padding-right: 20px;
+        --padding-bottom: 50px;
+        --padding-left: 20px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4279c306 {
+        --container-widget-width: 150px;
+        --container-widget-flex-grow: 0;
+        width: var(--container-widget-width, 150px);
+        max-width: 150px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3bdb0252 {
+        text-align: center;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3bdb0252 .elementor-heading-title {
+        font-size: 26px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-3fb44f61>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-7b407299>.elementor-widget-container {
+        margin: 50px 0px 50px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1df6a371 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-1df6a371>.elementor-widget-container {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-43c8fe8e .elementor-toggle-title {
+        font-size: 18px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4650edb8 .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-4650edb8>.elementor-widget-container {
+        margin: 50px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-19 .elementor-element.elementor-element-280e5401>.elementor-widget-container {
+        margin: 50px 0px 50px 0px;
+    }
+}
+
+/* Start custom CSS for container, class: .elementor-element-4462a961 */
+.elementor-19 .elementor-element.elementor-element-4462a961 {
+    backdrop-filter: blur(7px);
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-2910c821 */
+.verde {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-21755781 */
+.elementor-19 .elementor-element.elementor-element-21755781 .elementor-button-text {
+    position: relative;
+    top: -3.18px;
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-4c761142 */
+.verde {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-6283ddbb */
+.elementor-19 .elementor-element.elementor-element-6283ddbb .elementor-button-icon {
+    font-size: 20px;
+    margin-bottom: -100%;
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-6f4bf498 */
+.cor {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-4e3e8ed3 */
+.cor {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-79ff6dfa */
+.elementor-19 .elementor-element.elementor-element-79ff6dfa {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-79ff6dfa::before,
+.elementor-19 .elementor-element.elementor-element-79ff6dfa::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-79ff6dfa:hover::before,
+.elementor-19 .elementor-element.elementor-element-79ff6dfa:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-79ff6dfa:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-79ff6dfa:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-83469f8 */
+.elementor-19 .elementor-element.elementor-element-83469f8 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-83469f8::before,
+.elementor-19 .elementor-element.elementor-element-83469f8::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-83469f8:hover::before,
+.elementor-19 .elementor-element.elementor-element-83469f8:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-83469f8:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-83469f8:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-a74fed0 */
+.elementor-19 .elementor-element.elementor-element-a74fed0 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-a74fed0::before,
+.elementor-19 .elementor-element.elementor-element-a74fed0::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-a74fed0:hover::before,
+.elementor-19 .elementor-element.elementor-element-a74fed0:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-a74fed0:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-a74fed0:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-bf90b9d */
+.elementor-19 .elementor-element.elementor-element-bf90b9d {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-bf90b9d::before,
+.elementor-19 .elementor-element.elementor-element-bf90b9d::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-bf90b9d:hover::before,
+.elementor-19 .elementor-element.elementor-element-bf90b9d:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-bf90b9d:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-bf90b9d:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-5dade15 */
+.elementor-19 .elementor-element.elementor-element-5dade15 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-5dade15::before,
+.elementor-19 .elementor-element.elementor-element-5dade15::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-5dade15:hover::before,
+.elementor-19 .elementor-element.elementor-element-5dade15:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-5dade15:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-5dade15:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-131a1ee */
+.elementor-19 .elementor-element.elementor-element-131a1ee {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-131a1ee::before,
+.elementor-19 .elementor-element.elementor-element-131a1ee::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-131a1ee:hover::before,
+.elementor-19 .elementor-element.elementor-element-131a1ee:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-131a1ee:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-131a1ee:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-09a512c */
+.elementor-19 .elementor-element.elementor-element-09a512c {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-09a512c::before,
+.elementor-19 .elementor-element.elementor-element-09a512c::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-09a512c:hover::before,
+.elementor-19 .elementor-element.elementor-element-09a512c:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-09a512c:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-09a512c:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-51af9f8 */
+.elementor-19 .elementor-element.elementor-element-51af9f8 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-51af9f8::before,
+.elementor-19 .elementor-element.elementor-element-51af9f8::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-51af9f8:hover::before,
+.elementor-19 .elementor-element.elementor-element-51af9f8:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-51af9f8:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-51af9f8:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-ad64c98 */
+.elementor-19 .elementor-element.elementor-element-ad64c98 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-ad64c98::before,
+.elementor-19 .elementor-element.elementor-element-ad64c98::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-ad64c98:hover::before,
+.elementor-19 .elementor-element.elementor-element-ad64c98:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-ad64c98:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-ad64c98:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-a05b14a */
+.elementor-19 .elementor-element.elementor-element-a05b14a {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-a05b14a::before,
+.elementor-19 .elementor-element.elementor-element-a05b14a::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-a05b14a:hover::before,
+.elementor-19 .elementor-element.elementor-element-a05b14a:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-a05b14a:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-a05b14a:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-f190459 */
+.elementor-19 .elementor-element.elementor-element-f190459 {
+    --first-color: #01b31d;
+    --second-color: #01b31d;
+    --third-color: #012E02;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-19 .elementor-element.elementor-element-f190459::before,
+.elementor-19 .elementor-element.elementor-element-f190459::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-19 .elementor-element.elementor-element-f190459:hover::before,
+.elementor-19 .elementor-element.elementor-element-f190459:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient(var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 5.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-19 .elementor-element.elementor-element-f190459:hover::before {
+    width: 100%;
+    height: 100%;
+    max-height: 500px;
+    border-radius: 20px;
+    top: 0%;
+    left: 0%;
+}
+
+.elementor-19 .elementor-element.elementor-element-f190459:hover::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-556e1fe */
+.cor {
+    color: #5B5B5B
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-759b0055 */
+.cor {
+    color: #5B5B5B
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-642497bd */
+.branco {
+    color: #FFFF
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-3bdb0252 */
+.cor {
+    color: #5B5B5B
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-1df6a371 */
+.verde {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-4650edb8 */
+.verde {
+    color: #01b31d
+}
+
+/* End custom CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('');
+    src: url('') format('embedded-opentype'),
+        url('') format('woff2'),
+        url('') format('woff'),
+        url('') format('svg');
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 600;
+    font-display: auto;
+    src: url('');
+    src: url('') format('embedded-opentype'),
+        url('') format('woff2'),
+        url('') format('woff'),
+        url('') format('svg');
+}
+
+@font-face {
+    font-family: 'Darker Grotesque';
+    font-style: normal;
+    font-weight: 700;
+    font-display: auto;
+    src: url('');
+    src: url('') format('embedded-opentype'),
+        url('') format('woff2'),
+        url('') format('woff'),
+        url('') format('svg');
+}
+
+/* End Custom Fonts CSS */
