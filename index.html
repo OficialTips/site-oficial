@@ -6,7 +6,10 @@
     <title>OficialTips &#8211; Dicas esportivas</title>
     <link rel="shortcut icon" href="logoc.png" type="image/x-icon">
     <meta name='robots' content='max-image-preview:large' />
-
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+    .mySlides {display:none}
+    </style>
     <script>
 
         /*! This file is auto-generated */
@@ -933,123 +936,52 @@
                     </div>
                 </div>
                 <div>
-                <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-                <div class="container">
-                    <!-- main swiper container -->
-                    <div class="swiper">
+                
 
-                        <!-- wrapper for slide -->
-                        <div class="swiper-wrapper">
-
-                            <!-- single slide -->
-                            <div class="swiper-slide">
-                                <div class="image__wrapper">
-                                    <img src="1.png" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="image__wrapper">
-                                    <img src="2.png" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="image__wrapper">
-                                    <img src="3.png" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="image__wrapper">
-                                    <img src="4.png" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="image__wrapper">
-                                    <img src="5.png" alt="" />
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- pagination -->
-                        <div class="swiper-pagination"></div>
-
-                    </div>
-                </div>
-                <style>
-                    * {
-                        padding: 0;
-                        margin: 0;
-                        box-sizing: border-box;
-                    }
-
-                    body {
-                        max-width: 100vw;
-                        overflow-x: hidden;
-                    }
-
-                    .container {
-                        background-color: none;
-                        display: grid;
-                        place-items: center;
-                        min-height: 100vh;
-                    }
-
-                    .swiper {
-                        width: 100%;
-                    }
-
-                    .image__wrapper {
-                        width: 100%;
-                        position: relative;
-                        padding-top: 100%;
-                    }
-
-                    .image__wrapper img {
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                        width: 100%;
-                        height: 100%;
-                        object-fit: contain;
-                        object-position: center top;
-                    }
-                </style>
-                <script>
-                    const swiper = new Swiper('.swiper', {
-                        loop: true, // creates a infinite loop of slides
-                        navigation: { // activate navigation with navigation buttons
-                            nextEl: '.swiper-button-next',
-                            prevEl: '.swiper-button-prev',
-                        },
-                        pagination: {// activate paginations
-                            el: '.swiper-pagination',
-                            type: 'bullets',
-                            clickable: true,
-                        },
-
-                        // keyboard and mousewheel navigation
-                        keyboard: true,
-                        mousewheel: true,
-
-                        // for other than sliding effect
-
-                        // effect: 'creative',
-                        // creativeEffect: {
-                        //  prev: {
-                        //      // will set `translateZ(-400px)` on previous slides
-                        //      translate: [0, 0, -400],
-                        //  },
-                        //  next: {
-                        //      // will set `translateX(100%)` on next slides
-                        //      translate: ['100%', 0, 0],
-                        //  },
-                        // },
-                        // effect: 'coverflow',
-                    })
-                </script>
+<div class="w3-content" style="max-width:900px">
+    <img class="mySlides" src="1.png" style="width:100%">
+    <img class="mySlides" src="2.png" style="width:100%">
+    <img class="mySlides" src="3.png" style="width:100%">
+    <img class="mySlides" src="4.png" style="width:100%">
+    <img class="mySlides" src="5.png" style="width:100%">
+  </div>
+  
+  <div class="w3-center">
+    <div class="w3-section">
+      <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Anterior</button>
+     
+      <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Próxima ❯</button>
+    </div> 
+  </div>
+  
+  <script>
+  var slideIndex = 1;
+  showDivs(slideIndex);
+  
+  function plusDivs(n) {
+    showDivs(slideIndex += n);
+  }
+  
+  function currentDiv(n) {
+    showDivs(slideIndex = n);
+  }
+  
+  function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    if (n > x.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" w3-red", "");
+    }
+    x[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " w3-red";
+  }
+  </script>
                 </div>
                 <div class="elementor-element elementor-element-4ea2b0 elementor-align-center elementor-widget elementor-widget-button"
                     data-id="4ea2b0" data-element_type="widget" data-widget_type="button.default">
