@@ -612,7 +612,7 @@
 
 .elementor-19 .elementor-element.elementor-element-4c0fb021:not(.elementor-motion-effects-element-type-background),
 .elementor-19 .elementor-element.elementor-element-4c0fb021>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000000;
+    background-color: transparent;
 }
 
 .elementor-19 .elementor-element.elementor-element-4c0fb021,
@@ -1156,8 +1156,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #34680F;
-    --border-color: #34680F;
+    border-color: #C60202;
+    --border-color: #C60202;
     --border-radius: 20px 20px 20px 20px;
     --border-top-left-radius: 20px;
     --border-top-right-radius: 20px;
@@ -4348,9 +4348,9 @@
 /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-83469f8 */
 .elementor-19 .elementor-element.elementor-element-83469f8 {
-    --first-color: #01b31d;
-    --second-color: #01b31d;
-    --third-color: #012E02;
+    --first-color: #C60202;
+    --second-color: #C60202;
+    --third-color: #C60202;
 }
 
 @property --rotate {
